@@ -1,0 +1,10 @@
+20:05:08 **** Build of configuration Debug for project wire_i2c ****
+make -j10 all 
+arm-none-eabi-size  wire_i2c.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24888	    104	   2216	  27208	   6a48	wire_i2c.elf
+Finished building: default.size.stdout
+ 
+
+20:05:08 Build Finished. 0 errors, 0 warnings. (took 564ms)
+

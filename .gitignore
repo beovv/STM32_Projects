@@ -1,0 +1,6 @@
+*.zip
+*.exe
+*.bin
+*.elf
+*.hex
+/keil_packs/

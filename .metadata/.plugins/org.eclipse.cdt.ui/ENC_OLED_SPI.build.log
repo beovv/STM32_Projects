@@ -1,0 +1,10 @@
+21:39:26 **** Incremental Build of configuration Debug for project ENC_OLED_SPI ****
+make -j10 all 
+arm-none-eabi-size  ENC_OLED_SPI.elf 
+   text	   data	    bss	    dec	    hex	filename
+  47408	    124	   3340	  50872	   c6b8	ENC_OLED_SPI.elf
+Finished building: default.size.stdout
+ 
+
+21:39:27 Build Finished. 0 errors, 0 warnings. (took 573ms)
+

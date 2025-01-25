@@ -1,0 +1,10 @@
+20:05:06 **** Build of configuration Debug for project i2c_scanner_usart ****
+make -j10 all 
+arm-none-eabi-size  i2c_scanner_usart.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30520	    184	   2168	  32872	   8068	i2c_scanner_usart.elf
+Finished building: default.size.stdout
+ 
+
+20:05:06 Build Finished. 0 errors, 0 warnings. (took 507ms)
+

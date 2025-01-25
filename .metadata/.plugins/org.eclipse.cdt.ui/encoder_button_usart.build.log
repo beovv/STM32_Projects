@@ -1,0 +1,10 @@
+20:05:04 **** Build of configuration Debug for project encoder_button_usart ****
+make -j10 all 
+arm-none-eabi-size  encoder_button_usart.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24712	    104	   2160	  26976	   6960	encoder_button_usart.elf
+Finished building: default.size.stdout
+ 
+
+20:05:04 Build Finished. 0 errors, 0 warnings. (took 525ms)
+

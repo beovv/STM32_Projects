@@ -1,0 +1,10 @@
+20:05:04 **** Build of configuration Debug for project f103_i2c_scanner ****
+make -j10 all 
+arm-none-eabi-size  f103_i2c_scanner.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13056	    168	   2168	  15392	   3c20	f103_i2c_scanner.elf
+Finished building: default.size.stdout
+ 
+
+20:05:05 Build Finished. 0 errors, 0 warnings. (took 521ms)
+
